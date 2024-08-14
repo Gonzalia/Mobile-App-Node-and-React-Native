@@ -16,4 +16,3 @@ To run this, make sure you have all 4 technologies installed, and then:
 
 `DB is connected`
 
-3. Visit `http://localhost:5173/`
